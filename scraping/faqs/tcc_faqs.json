@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What is a Tax Compliance Certificate?",
+    "answer": "A Tax Compliance Certificate (TCC) is official proof that a taxpayer has filed and paid their taxes. It is required for government tenders and certain transactions.",
+    "category": "Tax Compliance Certificate",
+    "source": "https://www.kra.go.ke/services/file-my-returns",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "How do I apply for a Tax Compliance Certificate on iTax?",
+    "answer": "Log in to iTax, select 'TCC' under the Certificates menu, fill out the application form, and submit it.",
+    "category": "Tax Compliance Certificate",
+    "source": "https://kra.go.ke/helping-tax-payers/facts-about-kra/category/7",
+    "scraped_at": "2026-05-09"
+  }
+]

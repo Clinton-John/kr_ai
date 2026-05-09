@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What is tax compliance?",
+    "answer": "Tax compliance means adhering to tax laws — including registration, filing returns, and paying taxes. All individuals, businesses, and organizations earning income or engaging in taxable activities in Kenya must comply.",
+    "category": "Income Tax",
+    "source": "https://www.kra.go.ke/helping-tax-payers/facts-about-kra/category/3",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What happens if I don't comply with tax regulations?",
+    "answer": "Non-compliance can result in penalties, fines, interest on unpaid taxes, and legal action in severe cases.",
+    "category": "Income Tax",
+    "source": "https://www.kra.go.ke/helping-tax-payers/facts-about-kra/category/3",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Does KRA make tax laws?",
+    "answer": "No. KRA only implements provisions of already enacted tax laws. Enactment of tax legislation is the mandate of the National Assembly.",
+    "category": "Income Tax",
+    "source": "https://www.kra.go.ke/helping-tax-payers/facts-about-kra/category/3",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Does KRA control how tax money is spent?",
+    "answer": "No. KRA only collects and accounts for taxes. The National Treasury accounts for tax expenditure.",
+    "category": "Income Tax",
+    "source": "https://www.kra.go.ke/helping-tax-payers/facts-about-kra/category/3",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Who is required to file tax returns in Kenya?",
+    "answer": "All persons earning income — from employment, business, or other sources — must file their tax returns, regardless of income level. Even those without income who hold a KRA PIN must file NIL returns.",
+    "category": "Income Tax",
+    "source": "https://www.kra.go.ke/helping-tax-payers/facts-about-kra/category/3",
+    "scraped_at": "2026-05-09"
+  }
+]

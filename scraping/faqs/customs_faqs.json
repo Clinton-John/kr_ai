@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What is import duty?",
+    "answer": "Import duty is a tax imposed on goods brought into Kenya. It is assessed based on the Customs value of goods using rates from EACCMA 2004, VAT Act 2013, Excise Act 2015, and other government levies.",
+    "category": "Customs and Border Control",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/customs-and-border-control",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Are all goods brought into Kenya subject to import duty?",
+    "answer": "Yes, all goods whether new or used are subject to taxation. However, different passenger categories have different concessions under the 5th Schedule of the East African Community Customs Management Act.",
+    "category": "Customs and Border Control",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/customs-and-border-control",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What passenger concession applies at customs?",
+    "answer": "Passengers have a concession of USD 500 applicable only to goods for personal and/or household use.",
+    "category": "Customs and Border Control",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/customs-and-border-control",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What are the conditions for importing a personal vehicle duty-free?",
+    "answer": "You must have personally owned and used the vehicle outside Kenya for at least 12 months, the vehicle must not be older than 8 years, you must be at least 18 years old, and you must not have been granted a similar exemption previously.",
+    "category": "Customs and Border Control",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/customs-and-border-control",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "How do I verify if customs duty amounts assessed are correct?",
+    "answer": "The passenger may seek an explanation from the Customs Officer. You have a right to query the assessed Customs duties and the Customs Officer is obligated to demonstrate the correctness of the assessment.",
+    "category": "Customs and Border Control",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/customs-and-border-control",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Passenger Categorization",
+    "answer": "Who is a resident",
+    "category": "Customs and Border Control",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/customs-and-border-control",
+    "scraped_at": "2026-05-09"
+  }
+]
