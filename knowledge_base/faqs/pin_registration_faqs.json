@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What is a KRA PIN?",
+    "answer": "A KRA PIN (Personal Identification Number) is a unique identification number assigned to an individual or business upon registration with KRA. It is required for tax filing, payments, and various government transactions.",
+    "category": "PIN Registration",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/pin-registration",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "How do I apply for a KRA PIN?",
+    "answer": "Visit the KRA website at www.kra.go.ke, click on 'Online Services', and select 'PIN Registration' to access the iTax portal and apply for a PIN online.",
+    "category": "PIN Registration",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/introduction-to-itax",
+    "scraped_at": "2026-05-09"
+  }
+]

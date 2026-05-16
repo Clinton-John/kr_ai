@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What is iTax?",
+    "answer": "iTax is a system developed by KRA to improve efficiency. It allows you to register for a PIN, file your tax returns, apply for a tax compliance certificate, generate a payment slip, and check your ledger account among others.",
+    "category": "iTax - Introduction",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/introduction-to-itax",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Does KRA offer training on iTax?",
+    "answer": "Yes. Training is done free of charge every first two Thursdays of the month at the Convention Centre, 5th floor Times Tower, Nairobi.",
+    "category": "iTax - Introduction",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/introduction-to-itax",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What do I do if I get an error when registering on iTax?",
+    "answer": "If you get error ref. no. 139, this is caused by poor internet connectivity — please keep trying. For PIN migration or data errors, contact KRA via callcentre@kra.go.ke or DTDOnlineSupport@kra.go.ke, or visit the nearest KRA office.",
+    "category": "iTax - Introduction",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/introduction-to-itax",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Do I need a VAT certificate if I have a PIN certificate?",
+    "answer": "No. A PIN certificate is sufficient. If you start dealing in VAT-able business, simply add the VAT obligation to your existing PIN.",
+    "category": "iTax - Introduction",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/introduction-to-itax",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "When was iTax launched?",
+    "answer": "iTax was officially launched in 2014, with mandatory onboarding for individuals and entities beginning in 2015. There are currently over 8 million active taxpayers on the platform.",
+    "category": "iTax - Introduction",
+    "source": "https://kra.go.ke/helping-tax-payers/facts-about-kra/category/7",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "How do I update my personal details on iTax?",
+    "answer": "Log in to iTax, go to 'Registration', and select 'Amend PIN Details' to update your information.",
+    "category": "iTax - Introduction",
+    "source": "https://kra.go.ke/helping-tax-payers/facts-about-kra/category/7",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "How do I make a tax payment on iTax?",
+    "answer": "Log in with your PIN and password. Click 'Payments' then 'Payment Registration' and click 'Next'. Choose the applicable tax head (e.g. Income Tax, VAT), select 'Self-Assessment' as the Payment Type, enter the tax period, and choose your payment method.",
+    "category": "iTax - Introduction",
+    "source": "https://kra.go.ke/helping-tax-payers/facts-about-kra/category/7",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "iTax",
+    "answer": "What do I do after registering and can see only two icons (change password and logout)?",
+    "category": "iTax - Introduction",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/introduction-to-itax",
+    "scraped_at": "2026-05-09"
+  }
+]

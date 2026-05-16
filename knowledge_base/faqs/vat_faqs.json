@@ -1,0 +1,65 @@
+[
+  {
+    "question": "When is VAT due?",
+    "answer": "VAT returns and payment are both due on or before the 20th day of the following month.",
+    "category": "VAT",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-vat",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "How are VAT returns submitted?",
+    "answer": "VAT returns are submitted online via the iTax portal at itax.kra.go.ke.",
+    "category": "VAT",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-vat",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What is input tax and output tax in VAT?",
+    "answer": "Input tax is VAT paid on purchases of taxable goods and services for business purposes. Output tax is VAT charged on sales of taxable goods or services. A business remits the difference (output minus input) to KRA.",
+    "category": "VAT",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-vat",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "How long is an input tax deduction valid?",
+    "answer": "Input tax deduction is valid for only six months after the end of the tax period in which the supply was made.",
+    "category": "VAT",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-vat",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What are exempt supplies under VAT?",
+    "answer": "Exempt supplies are listed in the First Schedule of the VAT Act 2013. Taxpayers who only make exempt supplies are not required to register for VAT.",
+    "category": "VAT",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-vat",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Should I pay VAT and income tax?",
+    "answer": "Income tax is a compulsory obligation for all income earners. VAT registration is required when your taxable turnover exceeds KSh 5 million per year. You pay VAT only when registered.",
+    "category": "VAT",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-vat",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What is the VAT Special Table?",
+    "answer": "The VAT Special Table is a KRA mechanism in iTax that restricts non-compliant taxpayers (nil filers, non-filers, or those involved in VAT fraud) from filing VAT returns until their compliance is reviewed.",
+    "category": "VAT",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-vat",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What should I do if my supplier does not have a PIN?",
+    "answer": "An invoice without a PIN is not a valid tax invoice and is therefore not allowed for input tax deduction. Ensure all your suppliers have valid KRA PINs.",
+    "category": "VAT",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/filing-returns-on-itax",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Nil filers and Non-filers",
+    "answer": "What does a taxpayer require to apply for addition of VAT obligation?",
+    "category": "VAT",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-vat",
+    "scraped_at": "2026-05-09"
+  }
+]

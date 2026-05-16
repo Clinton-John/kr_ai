@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What is PAYE?",
+    "answer": "PAYE (Pay As You Earn) is a system where employers deduct tax from employees' employment income and remit it to KRA on their behalf.",
+    "category": "PAYE",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-paye",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What does taxable employment income include?",
+    "answer": "Taxable employment income includes all cash payments however described, and the value of non-cash benefits exceeding KSh 5,000 per month.",
+    "category": "PAYE",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-paye",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "By when must employers remit PAYE to KRA?",
+    "answer": "Employers must remit PAYE to KRA on or before the 9th day of the following month.",
+    "category": "PAYE",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-paye",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What are the individual income tax rates for PAYE?",
+    "answer": "PAYE is computed using individual Income Tax Rates ranging from 10% to 35% as per the Finance Act 2023 (effective 1st July 2023).",
+    "category": "PAYE",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-paye",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What is Fringe Benefit Tax (FBT)?",
+    "answer": "FBT is a tax on loans given by employers to employees at below the prescribed interest rate. The difference between the prescribed rate and the actual rate charged is treated as a taxable benefit. FBT is paid by the employer.",
+    "category": "PAYE",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-paye",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What meal benefits are exempt from PAYE?",
+    "answer": "Meals provided by the employer are exempt up to KSh 5,000 per month (KSh 60,000 per year).",
+    "category": "PAYE",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-paye",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What pension contributions are exempt from PAYE?",
+    "answer": "Pension contributions made by an employer to a registered or unregistered scheme are exempt up to KSh 30,000 per month (KSh 360,000 per year).",
+    "category": "PAYE",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-paye",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Monthly",
+    "answer": "Are employee benefits taxable?",
+    "category": "PAYE",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/more-about-paye",
+    "scraped_at": "2026-05-09"
+  }
+]

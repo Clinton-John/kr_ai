@@ -1,0 +1,51 @@
+[
+  {
+    "question": "If one does not have income and has a KRA PIN, are they required to file a return?",
+    "answer": "Yes. They are required to file NIL returns for the period without income.",
+    "category": "iTax - Filing Returns",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/filing-returns-on-itax",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Can I view a copy of previous returns I have filed?",
+    "answer": "Yes. Log in to your iTax account, select the Returns tab then 'Consult Return'. Select the type of return and the period you wish to view.",
+    "category": "iTax - Filing Returns",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/filing-returns-on-itax",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Why does KRA require employees to file income tax returns yet employers file PAYE?",
+    "answer": "Employers file PAYE returns to declare taxes deducted from employees. Employees file returns to declare their total income including farming income, business income, employment income, interest, and commissions.",
+    "category": "iTax - Filing Returns",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/filing-returns-on-itax",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What is a P9 form?",
+    "answer": "A P9 is a summary of employment income received in a given year, issued by the employer to employees. It is used when filing individual income tax returns on iTax.",
+    "category": "iTax - Filing Returns",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/filing-returns-on-itax",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Can I file an amended return?",
+    "answer": "Yes. You can file an amended return within five years from the date of filing the original return.",
+    "category": "iTax - Filing Returns",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/filing-returns-on-itax",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "What is the deadline for filing individual income tax returns?",
+    "answer": "Individual income tax returns are due on or before 30th June of the following year of income.",
+    "category": "iTax - Filing Returns",
+    "source": "https://www.kra.go.ke/helping-tax-payers/facts-about-kra/category/3",
+    "scraped_at": "2026-05-09"
+  },
+  {
+    "question": "Income Tax Return",
+    "answer": "Can I file all returns on iTax?",
+    "category": "iTax - Filing Returns",
+    "source": "https://www.kra.go.ke/helping-tax-payers/faqs/filing-returns-on-itax",
+    "scraped_at": "2026-05-09"
+  }
+]
